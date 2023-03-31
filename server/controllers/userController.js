@@ -1,4 +1,4 @@
-const ApiError = require('../errors/ApiError')
+const ApiError = require('../errors/APIError')
 const {User} = require('../models/models')
 const tokenService = require('../service/tokenService')
 

@@ -1,5 +1,5 @@
 const {Task} = require('../models/models')
-const ApiError = require('../errors/ApiError')
+const ApiError = require('../errors/APIError')
 
 class TaskController {
     async create (req, res, next) {
