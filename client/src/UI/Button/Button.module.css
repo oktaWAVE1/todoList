@@ -1,0 +1,14 @@
+.basicButton {
+    margin-top: 15px;
+    padding: 8px 8px;
+    border: solid 1px darkslategray;
+    border-radius: 4px;
+    color: darkslategray;
+    background: #FFFFFF;
+}
+
+.basicButton:hover {
+    color: #FFFFFF;
+    background: #000000;
+    cursor: pointer;
+}
